@@ -223,6 +223,8 @@
       file: "sampledata/car.obj",
       name: "car",
       recenter: "root",
+       scale:  0.20000
+
    },
    version: "0.52:1",
 }
